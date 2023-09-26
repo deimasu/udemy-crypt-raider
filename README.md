@@ -1,4 +1,4 @@
-# Obstacle Assault (UE5 Learning Project)
+# Crypt Raider (UE5 Learning Project)
 
 ## Description
 This is the third UE5 project created by me as part of the Udemy UE5 game development course. This project heavily relies on custom-created C++ components (Grabber, Trigger, Mover) that are added to UE Blueprints to extend their functionality. In this game, players solve puzzles to access the dungeon and steal the golden statue from the ancient mausoleum.
